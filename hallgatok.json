@@ -1,0 +1,1 @@
+[{"id": 0, "name": "test_name_1", "kepzes": "bsc", "spec": "aut", "NEPTUN": "AAAAAA", "TODO": [], "Active": true, "Subject": ""}, {"id": 1, "name": "test_name_2", "NEPTUN": "BBBBBB", "kepzes": "bsc", "spec": "aut", "TODO": [0, 1, 2, 3], "Active": true, "Subject": ""}]
